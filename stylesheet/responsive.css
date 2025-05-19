@@ -1,0 +1,856 @@
+/******* iPad Landscape ********/
+
+@media (min-width: 2000px){	
+	.what-client-say{ margin-top:80px;}
+	.web-cms .cms-img{top:20%;right:0}
+	.webcms-intro{margin-top:40%;}	
+}
+
+@media (max-width: 1440px){
+	.content-wrap-inner { margin-top: 2.6875rem;   margin-bottom: 3rem;}
+	.implementation-area .ia-icon { height: 170px;  padding: 125px 0 0 0; }
+	.implementation-area .ia-icon:before{top:0;}
+	.implementation-area h2, .transform-business h2{ padding-bottom: 2rem;}
+	.implementation-area h3{ font-size:.9rem; padding:0 5px;}
+	.approach-offerings h2{padding-bottom: 2.25rem;}
+	
+	/*BlockChain Consulting*/
+	.blockchain-consulting-banner{margin:0;}	
+}
+
+@media (max-width: 1200px){
+	/* .top-nav.visible-md.visible-lg{display:block !important;margin-top:-500px;} */
+	h1, h2, h3, h4, h5, h6, #footer .footer-links li a strong, .content-wrap-inner h2{ font-weight:500;}
+	.home-heading, .why-stiga h3, .trusted h3, .web-cms h3, .iot h3, .bem h3, .home-news h3, .approach-offerings h3{font-size: 2.5rem;}
+	.logo a{width:100%;}
+	.content-wrap-inner h2{font-size: 2.25rem;}
+	.content-wrap-inner .para-intro { max-width: 80%;}
+	.new-box .news-sec-cont .home-new-content p {font-size: 1rem;line-height: 1.25rem; }	
+	.new-box .news-sec-cont .home-new-content {width: 70%; }
+	.org-value .org-each-sec .org-each-content{ height: 11.688rem;}
+	.org-value .org-each-sec .org-hover-box p{ font-size: 0.875rem;}
+	.our-services .nav-tabs > li{ width: 23%;}
+	.org-value .org-each-sec .org-each-content{ height: 10.688rem;}
+	.navbar-nav > li > a{ padding: 10px 11px;}
+	/*.top-nav { margin: 18px 0 0;}*/
+	.swiper-button-next, .swiper-button-prev{ display: none;}
+	.swiper-button-next, .swiper-button-prev{ display: none;}
+	.home-banner .swiper-button-next, .home-banner .swiper-button-prev{ display: block;}
+	.trusted .what-client-say .client-name .client-discription{font-size:.9rem;}
+	.trusted .what-client-say p{font-size:1rem;line-height:28px;}
+	.web-cms .cms-img{ max-width:60%;top:0;}
+	.trusted .what-client-say p{ font-size:.87rem}
+	.trusted .what-client-say .client-name .client-discription{ font-size:.75rem;}
+	
+	/*BlockChain Consulting*/
+	.blockchain-consulting-banner{margin:0;}
+	
+	/*home*/
+	/* .banner-1 p { width: 65%;}
+	.banner-2 p {width: 60%;}
+	.banner-3 p {width: 75%;}
+	.banner-4 p{width: 80%;} */
+	.home-banner .home-slider-pre-next .swiper-controls{left:505px;}
+	.banner-content{padding-left:70px; padding-top:190px}
+	.why-content{width:82%;}
+	.testimonials-content ul li p{font-size:20px;}
+	.news-content{right:90px;}
+	.be-content{right:26px;}		
+	
+		
+	/* Executive Summary */
+	.loc p{font-size: 0.9rem;}	
+	.count{font-size: 3.5rem;}
+	.green-box.office-loc, .yellow-box.we-help { min-height: 16.599rem;padding: 30px;}	
+	
+	/*ecommerce-cms-solutions*/
+	.ecom-services-slider .owl-controls .owl-buttons .owl-prev{ left: -27px;}
+	.ecom-services-slider .owl-controls .owl-buttons .owl-next{right:-27px;}
+	.ecom-services-slider .ecom-single-slide{ margin: 0 5px;}
+	
+	/*Ecommerce-cms-solutions*/
+	.ecom-services-slider .ecom-single-slide .ecom-slide-content {min-height: 26.875rem;padding: 2rem 1.1875rem 1.1875rem;}
+	
+	
+	/*Mobility Solutions*/
+	
+	.mobility-solution-row .mobility-solution-content {padding: 0 0 0 5%; width: 95%;}
+	
+	/*News*/	
+	.all-year-section .latest-new-box .latest-news-sec-cont .latest-new-content p{font-size: 2rem;}
+	.single-news-box h5{ font-size: 1.125rem;}
+	.single-news-box .news-more{ bottom: 1rem;}	
+	#news-years ul li{ margin: 10px 0;}
+	
+	
+	/*Testimonial*/
+	.single-testimonial-box{ min-height: 420px;}
+	.single-testimonial-box .testimonial-client-pic{ min-height: 203px;}
+	
+	/*Testimonial updated*/
+	.testimonial-box p{ font-size:20px;}
+	.testimonial-box p strong{font-size:14px;}
+
+	
+	
+	/*.col-sm-41{ width: 300px;}*/
+	
+	/*Career*/	
+	.careet-tag-line-bg, .career-tag-lines{ height: 15.375rem;}
+	.career-video_sec{ min-height: 14.625rem;}
+	.career-video_sec iframe{ height:246px;}
+	.career-tag-lines p{ font-size:1rem;}
+	.career-video_sec video{ height: 15.37rem;}
+	
+	/*Enterprise solution*/	
+	#enterprise-solutions .ecomm-row h5 {min-height: 60px;}
+	
+	/* Clients */
+	.content-wrap-nonav-inner .para-intro{max-width: 65%;}
+	ul.clients li:last-child{width: 20%;}
+
+	/*Qlik Sense*/
+	.all-qlik-sec h5{ min-height: 46px;}
+
+	/*Web CMS*/
+	.web-cms-sec .cms-banner-left{ width:55%;}
+	.web-cms-sec .cms-banner-right{width:55%;}
+	.web-cms-sec .web-cms-content { padding-right: 0%;}
+	
+	/*Blockchain Consulting*/
+	.our-offering .blockchain-explained-block{min-height:480px; padding-bottom:20px;}
+
+}
+
+
+@media( max-width:1024px) and (min-height:1366px) and (orientation: portrait){
+	.banner-content .banner-read-more{left: 415px;bottom: 128px;}
+	.banner-content-BG img {  left: -296px;}
+	.home-banner .home-slider-pre-next .swiper-controls{left: 516px; width: 80px;bottom:178px;}
+	.home-banner .home-slider-pre-next .swiper-controls .swiper-button-next,.home-banner .home-slider-pre-next .swiper-controls .swiper-button-prev{height:38px !important;}
+}
+
+@media( max-width:1024px) and (orientation: landscape){.banner-content .banner-read-more{left: 370px; bottom: 128px;}
+	.home-banner .home-slider-pre-next .swiper-controls{bottom: 178px;left: 467px; width:80px}
+	.home-banner .home-slider-pre-next .swiper-controls .swiper-button-next, .home-banner .home-slider-pre-next .swiper-controls .swiper-button-prev{height:38px !important;}
+	.transform-business .iot-box ul li{height:270px}
+	
+	
+}
+/************************************************************************** iPad Portrait **********************************************************************************************************/
+
+@media (max-width: 992px){
+
+	/*.fixed_nav .menu_icon{margin-top: 12px;}*/
+	body,html { font-size: 95%;}
+	.logo { transform: translateY(12px); -ms-transform: translateY(12px); -webkit-transform: translateY(12px); }
+	.inner-page-heading h1{font-size: 2.5rem;}
+	h2, .content-wrap-inner h2, .content-wrap-nonav-inner h2, #ecommerce-services h2{ font-size:1.6rem;}
+	
+	.home-banner .banner-text h1{ font-size: 40px;}
+	.home-banner .banner-text p:first-child{ font-size: 24px; letter-spacing: 0;}
+	.dropdown-menu{ display:block !important;}
+	/*.home-banner .read-more_link{font-size: .75rem;padding: 10px 25px;}*/
+	.content-wrap-nonav-inner h2{margin: 0.1875rem 0 1.25rem;}
+	.content-wrap-nonav-inner .para-intro{ max-width:65%;}
+	.our-mission-box {padding: 0 1.25rem; } 
+	.how-we-work-box {padding: 0;}	
+	.para-intro br, .bottom-tag-line br{ display: none;}	
+	.how-we-work-box .we-work-heading{ width: 100%; right: 0;}
+	.bottom-tag-line p {font-size: 1.125rem;line-height: inherit; margin-bottom:0;}
+	
+	
+	/*Update on 2017-05-22 start*/
+	.banner-content-BG {  height: 100%; top: inherit;  bottom: -1px;   left: 0;}
+	.banner-content-BG img { bottom: 0; right: 0; margin: 0 auto; max-width:200%;}
+	
+	.why-stiga .why-stigasoft-option ul li{font-size:.75rem;}
+	.home-news .home-news-content h5, .home-news .home-news-content h5{font-size:1rem;}
+	.iot .more-iot{margin-bottom:50px;}
+	.iot h3{ padding:0px 0 40px 0;}
+	.iot p{padding-right:0;}
+	.home-heading, .why-stiga h3, .trusted h3, .web-cms h3, .iot h3, .bem h3, .approach-offerings h3, .home-news h3{font-size:2.5rem;}
+	.org-value h5{font-size:.9rem;}
+	.org-value .row:last-child .col-sm-4 { margin-bottom: 0;}
+	.trusted h4{ font-size:1.8rem;}
+	.trusted .what-client-say .client-name{ min-height:90px;}
+	.trusted .what-client-say p{font-size:14px; line-height:28px;}
+	.trusted .trusted-count .col-md-4:first-child .count{text-align:center;}
+	
+	.web-cms .cms-img{ position:static; max-width:100%;}
+	.why-stiga .why-stiga-all{top:11px;}
+	.trusted .read-all-testimonial{top:0;}
+	.bem { background-position:58% center;}
+	
+	
+	
+	
+	/*Update on 2017-05-22 end*/
+	
+	/*home*/
+	/* .banner-1 p { width: 75%;}
+	.banner-2 p {width: 75%;}
+	.banner-3 p {width: 92%;}
+	.banner-4 p{width: 95%;} */
+	.ov-content{top:58%;left:0;}
+	.why-content{width:100%;}
+	.why-content ul li:first-child {width: 15%;}
+	.why-content ul li span{font-size:13px;}
+	.testimonials-content ul li p{font-size:20px;}
+	.testimonial-user-pic + p{height:88px;}
+	.ov {   background: url(../images/banner-ov.jpg) no-repeat -450px center;   background-size: cover;}
+	.trusted .what-client-say .client-name .client-discription{margin-top:0;}
+	.what-client-say{ margin-top:80px;}
+	.trusted .trust-tagline{padding-bottom:0;}
+	
+	/*top menu*/
+	.top-nav{ display: none;}
+	.c-menu--slide-right li.c-menu__item .dropdown-menu .c-menu__link{ font-size: 13px;}
+	.c-menu__item > a, .c-menu--slide-right .dropdown > a{ font-size: 1rem;}
+	 .sub-nav ul li a{padding:23px 0 18px; font-size:0.775rem}
+	
+	
+	/* Our Services */	
+	.our-services .nav-tabs > li{ width: 23%;}
+	.our-services .nav-tabs > li > a > span{min-height: 40px; font-size:13px;}	
+	.our-services .tab-content{ padding: 10px 25px 0;}	
+	.org-value .org-each-sec .org-each-content {height: 6.688rem;}	
+	.our-services .nav-tabs > li > a{ padding:80px 0 0px 0}
+	
+	
+	/* Executive Summary */
+	.content-wrap-inner .para-intro{max-width: 68%;}
+	.count{font-size: 3.5rem;}
+	.yellow-box.we-help{min-height: 276px;}	
+	.yellow-box.we-help h4{padding-top: 1px;}
+	.green-box.office-loc{ min-height: inherit;}
+	.office-loc{margin-top: 10px;}
+	.loc{display: inline-block; width: 49%; padding: 0;}
+	.loc:first-child{border-bottom: 0 none; padding-bottom: 0;}
+	.loc:last-child{border-left: 1px solid rgba(255,255,255,0.3);}
+	.why-stigasoft ul li{min-height: 215px; padding: 1rem 0.625rem;}
+	.count::after {  top: 19%;}
+	.light-blue-box.executive-mgmt{min-height: 18.2rem;}	
+	 .loc{vertical-align:top;}
+	
+	
+	
+	/*ecommerce-cms-solutions*/	
+	.ecom-services-slider .ecom-single-slide .ecom-slide-content {min-height: 21.70rem;padding: 2rem 1.1875rem 1.1875rem;}
+	.ecomm-row { margin-bottom: 0;}
+	.ecomm-row > div {margin-bottom: 0px;}
+	.ecomm-row:last-child > div {  margin-top: 30px;}
+	.ecom-icons {margin-bottom: 15px; display: table; width: 100%;}	
+	
+	
+	/*Mobility Solutions*/	
+	.mobility-solution-row .mobility-solution-content {padding: 0 0 0 5%;}
+	
+	/*News*/
+	.all-year-section .latest-new-box .latest-news-sec-cont .latest-new-content p:first-child{ line-height: 2rem; font-size: 1.5rem;}
+	.single-news-box h5{ font-size: 1rem;}
+	.fixed_nav #news-years{ padding:1rem 0;}
+	#news-years ul li{padding:0.125rem .5rem;}
+	#news-years ul li a{padding:.5rem;}
+	
+	
+	/*qliksense-business-intelligence*/
+	.qlik-top-links a:last-child::before{ height: 49px;}
+	.qlik-top-links a{padding: 1.12rem 2rem;}
+
+	
+	
+	/*People*/
+	.people-row .people-pic{ flex: 1 0 18.5%;-webkit-flex: 1 0 18.5%;}
+	
+
+	/*Partners*/
+	.partners-logo{ padding:10px; background:none; border:none;}
+	.all-partners section{ padding-left:10px;padding-right:15px; }
+
+
+	/*Clients*/
+	ul.clients li {   min-height: 105px;}
+	ul.clients li img{ max-width: 80%;}
+	
+	
+	/*Testimonial*/
+	.single-testimonial-box{ min-height: 415px;}
+	.single-testimonial-box .testimonial-client-pic{min-height: 234px;}
+	.single-testimonial-box .testimonial-client-pic .testimonial-client h5{font-size: 24px;}
+	.single-testimonial-box .testimonial-client-pic .testimonial-client p{font-size: 16px;}
+	
+	/*Career*/
+	.careet-tag-line-bg, .career-tag-lines, .career-video_sec{ height: 250px;}
+	.career-video_sec{ background: #CCD2D2;}
+	
+	
+	/*enterprises solution*/
+	#enterprise-solutions h2 + p{padding-bottom: 0.875rem;}
+	
+	/*Web and application development */
+	.all-web-app-sec .col-sm-4{ margin-bottom: 20px;}
+	.all-web-app-sec .row:last-child .col-sm-4:last-child{ margin-bottom: 0px;}
+	.all-web-app-sec h5{ font-size:1.1rem;}
+	.web-features.bg-gray, .web-features.bg-white{ padding:20px 0; }
+	.web-features.bg-gray h5, .web-features.bg-white h5{ padding: 0 0 10px 0;}
+	
+	/*Contact Us*/
+	.form-address .form-group{ width:90%;}
+	.form-address address strong{ font-size:1.25rem;}
+	
+	/*Web CMS*/
+	.web-cms-sec{ padding:30px 15px}
+	.web-cms-sec .cms-banner-right, .web-cms-sec .cms-banner-left,.web-cms-sec .cms-banner-right.six-pac{ position:static; padding:0; margin-bottom:30px; width:100%; display:block;}
+	.web-cms-sec img{margin:0 auto;}
+	.web-cms-row.vh-center{min-height: inherit;; display:block;}
+	.web-cms-sec .web-cms-content { padding-right: 0; max-width:520px; margin:0 auto; text-align:center;}
+
+	/*IOT*/
+	.transform-business .iot-box ul li,.transform-business .iot-box ul li:nth-child(3n){ width:49%; margin-right:1%;}
+	.transform-business .iot-box ul li:nth-child(2n){ margin-right:1%;}
+	.approach-offerings{min-height:inherit; padding:26px 0;}
+	.approach-offerings img { height: inherit; margin: 0 auto 40px auto;}
+
+	/*BlockChain Consulting*/
+	.blockchain-consulting-banner{margin:0;}
+	.blockchain-explained-block p {  padding: 0 10px;}
+	.our-offering .blockchain-explained-block, 
+	.blockchain-explained .blockchain-explained-block{ min-height:inherit; margin-bottom:20px; padding-bottom:25px;}
+
+
+	
+
+}
+
+
+/*************************** Mobile View **************************/
+
+@media (max-width: 767px){
+	body, html { font-size: 92%;}	
+	
+	section p.para-intro{ max-width: 95%;}
+	h2,
+	 .content-wrap-inner h2, 
+	.content-wrap-nonav-inner h2,
+	 #enterprise-solutions h2, 
+	 .content-wrap-nonav-inner h2,
+	  #ecommerce-services h2,
+	  .all-qlik-sec section h2
+	{font-size: 20px; font-weight: 500;}
+	.navbar{min-height:50px;height:60px;}
+	header{ padding-top:3.125rem;}
+	.modal{padding-top:20px;}
+	.single-testimonial-detail .close{ right: -6px;top: -15px;}
+	
+
+	.menu_icon{ margin-top:13px;}
+	
+	.banner-1 p {  width: 100%;}
+    .hidemobile{ display: none;}
+	h5, .all-qlik-sec h5{font-size: 1.1rem;}
+	.bg-gray, .bg-white{ padding: 26px 0 26px;}
+	.c-menu__item > a, .c-menu--slide-right .dropdown > a { font-size: 1rem;}
+	.logo {margin-top: 0px;margin-bottom: 0px; width: 100%; margin-left: 0%;}
+	.logo a {width: 100%;}
+	.fixed_nav .logo{width:100%;  transform: translateY(11px);-ms-transform: translateY(11px); -webkit-transform: translateY(11px);}
+	.fixed_nav .navbar{min-height:30px;height:60px;}
+	.fixed_nav .menu_icon { margin-top: 13px;}
+	
+	.home-top-heading h1{ font-size: 2.5rem; line-height: inherit;}
+	.org-value .org-each-sec{ height: inherit;}
+	.menu_icon a strong{display:none;}
+	.home-top-heading p strong{ font-size:1rem;}
+	.our-mission-box{ padding:25px 1.25rem; min-height:inherit;height:inherit;}
+	.our-mission-box h4{ padding-top:0;}
+	.how-we-work-box, .our-mission-box, .new-box{ margin-left:10px;margin-right:10px;}
+	.home-top-heading h1{ font-size:1.8rem;}
+	.home-top-heading{padding: 0.9375rem 0 0.875rem 0;}
+	.new-box .news-sec-cont .home-new-date{ padding:10px 0;}
+	.new-box .news-sec-cont .home-new-content p{ display: block;}
+	
+	.our-services {  min-height: inherit;padding-top: 25px;padding-bottom: 30px;}
+	.customers-say h2{ margin: 24px 0 20px 0;line-height: initial;}
+	.new-box h6{ font-size:16px;}
+	.our-services h3{margin-top: 20px;}
+	.our-services h4{ line-height: 20px;}
+	
+	.our-services h5 { line-height: 20px; margin: 10px 0; text-align: center;}
+	.our-services .nav-tabs > li > a:hover:after,  
+	.our-services .nav-tabs > li.active > a:after {display: none;}
+	.our-services .nav-tabs {position: relative; height: 85px;}
+	.our-services .nav-tabs > li {width: 100%; position: absolute;}
+	.our-services .nav-tabs > li > a img,
+	.our-services .nav-tabs > li > a > span {color: #fff; opacity: 0; transition: opacity 1s; -webkit-transition: opacity 1s;}
+	.our-services .nav-tabs > li.active > a img{color: #fff; opacity: 1;}
+	.our-services .tab-content {padding: 10px 0 0 0; text-align: left;}
+	.our-services .button-previous {top: -50px;}
+	.our-services .button-next {top: -50px;}
+	.our-services .button-previous, .our-services .button-next {display: block;}
+	.nav.nav-tabs.nav-pills > li{display: none; margin-left: 0 !important;}
+	.nav.nav-tabs.nav-pills > li.active{display: block;}
+	.bg-anim{-webkit-transform: none;	-ms-transform: none;transform: none;-webkit-transition: none;-moz-transition: none;-ms-transition: none;transition: none;-webkit-animation: none;-ms-animation: none;animation: none;}
+	.single-client img{ display: inline-block;;}
+	.customers-say a.read-more_link{ margin: 20px 0 30px 0;}
+
+	.teck-part ul li {width: 96%; margin: 0 2%;}
+	#partners .owl-controls .owl-page.active span, #partners .owl-controls .owl-page.active span {
+	 background: #3ba8e8 none repeat scroll 0 0;
+	}
+	#partners .owl-controls .owl-page span, #why-stigasoft .owl-controls .owl-page span {
+	  background: #778899 none repeat scroll 0 0;
+	  border-radius: 50%;
+	  display: block;
+	  height: 10px;
+	  margin: 5px 7px;
+	  width: 10px;
+	}
+	#partners .owl-pagination{ padding:15px 0 0;text-align: center;}
+	#partners .owl-controls .owl-page, #why-stigasoft .owl-controls .owl-page {
+  		display: inline-block; 
+	}
+
+	#partners .owl-controls .owl-page span, #why-stigasoft .owl-controls .owl-page span {
+	  border-radius: 50%;
+	  display: block;
+	  height: 10px;
+	  margin: 5px 7px;
+	  width: 10px;
+	}
+	.our-services p{ padding:0 15px;}
+	.new-box, .how-we-work-box, .our-mission-box{ margin-bottom: 10px;}
+	.tech-partners{padding-top: 26px; padding-bottom:26px;}
+	
+	.page-top-content{ padding-left:10px;padding-right:10px;}
+	.content-wrap-inner{  margin-top: 25px;margin-bottom: 30px;}
+	.content-wrap-nonav-inner {  margin-top: 21px;margin-bottom: 30px;
+	}
+	.inner-page-heading h1{ font-size: 25px;}
+	.page-top-content p br{ display: none;}
+	#footer{padding-left:3%;padding-right: 3%;  padding-top: 28px;}
+	.carrer-sec{ margin-bottom: 20px;}
+	#footer .carrer-sec .read-more_link{margin: 1rem 0 0 0;}
+	#footer .footer-links{ padding-top: 15px;}
+	#footer .footer-links li{ padding-bottom: 1rem;}
+	#footer .col-sm-4:last-child .footer-links li{ padding-bottom: 0;}
+	#footer .col-sm-4:last-child .footer-links li { list-style: outside none none;}
+	
+	/* Homepage Full width */
+	.why-content {left: 0; top:67px;padding: 12px 0 18px;text-align: center;width: 100%;}
+	.why-content h3{font-size:20px;}	
+	
+	.owl-theme .owl-controls .owl-page.active span, .owl-theme .owl-controls.clickable .owl-page:hover span {
+  background: #3ba8e8;}
+  .owl-theme .owl-controls .owl-page span{opacity:.8;filter:alpha(opacity=80);}
+	.why-content .owl-buttons {position: absolute;width: 100%;bottom: -120px;}
+  .why-content .owl-prev, .why-content .owl-prev:hover { background: url(../images/home-slider-left-arrow.png) no-repeat bottom left !important;background-size:50% !important; height:21px !important;left: 40% !important;bottom: 0px !important;top: inherit !important;}
+	.why-content .owl-next, .why-content .owl-next:hover, .why-content ul .owl-next:hover {background: url("../images/home-slider-right-arrow.png") no-repeat bottom right !important;background-size:50% !important; height:21px !important; right: 40% !important;bottom: 0px !important;top: inherit !important;}
+  
+  
+  .be-content { box-sizing: border-box;right: 5%; padding: 0 0px 0 0;  width: 190px;top:30%;}  
+  .be { background: url(../images/banner-be.jpg) no-repeat -280px center; background-size: cover;}
+  .be-content h3{font-size:18px;line-height:24px; margin-bottom:24px;}
+  .be-content p{width:100%; padding:0px;box-sizing: border-box; display:none;}
+  .news-content {left: 0; padding: 0 15px 0 25px; right: inherit;top: 28%; width: 100%;}
+  .news-content h3{font-size:20px;}
+  
+  .testimonials-content{left:0;top:7%;}
+  .more-trsimonial-link{margin-top:10px;}
+  .testimonials-content ul{width:88%;}
+  .testimonials-content ul li{margin:0; width:100%;}
+  .testimonials-content ul li:first-child{left:0;}
+  .testimonials-content ul li:last-child{display:none;}
+  .testimonials-content ul li .testimonial-user-pic{left:0;}
+  .testimonials-content ul li p{font-size:14px;line-height:22px;}
+  .testimonials-content ul li p strong{ font-size:14px;}
+  
+  /*Update on 2017-05-22 start*/
+  
+  .banner-content-BG img { bottom: 40px;left:0; right: 0; margin: 0 auto; max-width:100%;}
+  .banner-content { height: auto; padding: 0px 10px 0 10px; width:100%; margin: 0 auto;}
+  .banner-content h3 { font-size: 18px; text-align:center;padding-bottom: 10px; position:relative;line-height:28px; margin: 0 auto;}
+  .banner-content h3:after{content:""; border-bottom:solid 2px #ffcb05; left:0;right:0;bottom:0;margin:0 auto; position:absolute;width:150px}
+  .banner-content p { font-size: 13px; line-height: 22px; margin: 5px 0 0;}
+  .banner-content .banner-read-more a  {font-size: .75rem; padding: 10px 25px;border:solid 1px #fff;}
+  .banner-content .banner-read-more{ position:static; margin-top:30px;text-align:center;}
+  .home-banner .home-slider-pre-next{display: block; width: 100%; margin-top:-22px; position: absolute;  left: 0;top: 50%;}
+  .home-banner .home-slider-pre-next .swiper-controls .swiper-button-prev, .home-banner .home-slider-pre-next .swiper-controls .swiper-button-next{background-color:#000;width:30px; height:30px !important;}
+  .home-banner .home-slider-pre-next .swiper-controls .swiper-button-prev{left:2%;}
+  .home-banner .home-slider-pre-next .swiper-controls .swiper-button-next{right:2%;}
+  .home-banner .home-slider-pre-next .swiper-controls{position:static;}
+  .home-banner .home-slider-pre-next .swiper-controls svg{margin: 4px 9px; max-width: 15px;}
+  
+  .banner-0{ background-position:90% bottom;}
+  .banner-1{ background-position:70% top;}
+  .banner-3{ background-position:72% center}
+  .banner-4{ background-position: 65% center;}
+  .why-stiga, .trusted, .web-cms, .iot, .bem, .home-news{  padding:25px 15px; }
+  .home-heading, .why-stiga h3, .trusted h3, .web-cms h3, .iot h3, .bem h3, .approach-offerings h3, .home-news h3 {font-size:28px;}
+  .org-value p, .web-cms p, .trusted .what-client-say p, .iot p, .trusted .trust-tagline, .bem p, .home-news .home-news-content p{font-size:14px; line-height:24px;}
+  
+  
+  .why-stiga .why-stigasoft-option ul li{width:99.8%;font-size:14px;}
+	.why-stiga .why-stigasoft-option ul{border:none;}
+	
+	.why-stiga .owl-controls {  position: absolute;  top: 50%;  width: 100%; margin-top:-10px;}
+	.why-stiga .owl-next, .why-stiga .owl-next:hover { position:absolute;right: 3%;  bottom: 50px; overflow:hidden;  top: 0;  background: url(../images/home-slider-right-arrow.png) no-repeat bottom right!important;
+    background-size: 50%!important;  height: 20px!important;opacity:1; text-indent:-999px;}
+	
+	.why-stiga  .owl-prev, .why-stiga  .owl-prev:hover { position:absolute;left: 3%; background: url(../images/home-slider-left-arrow.png) no-repeat bottom left!important;
+    background-size: 50%!important; height: 20px!important; opacity:1;text-indent:-999px;}
+  .org-value h5 {  font-size: 14px; margin-bottom:5px;}
+  .trusted .trusted-count .col-md-4:first-child .count{text-align:center;}
+  .trusted .trust-tagline{padding: 5px 0 10px 0;}
+  .trusted h4{margin-bottom: 10px;font-size: 1.4rem;}
+  .trusted .read-all-testimonial{ position:static; width:100%; text-align:center; margin-top:20px;}
+  .what-client-say{ margin-top:50px;}
+  .what-client-say .col-sm-4{ margin-bottom:30px;}
+  .trusted .what-client-say p{margin-bottom:0;}
+  .trusted .what-client-say .client-name{ margin:5px 0;line-height:22px;}
+  .org-value h4{font-size:1.5rem; margin-bottom: 25px;}
+  .org-value .col-sm-4{margin-top:0;margin-bottom: 22px;}
+  
+  .web-cms{display: -webkit-box; display: -moz-box;  display: -ms-flexbox; display: -webkit-flex; display: flex;
+				 -ms-flex-flow: center; -webkit-flex-flow: center;flex-flow: center;
+				 -webkit-align-items:center;-ms-flex-align:center;-moz-box-align:center;-webkit-box-align:center;align-items:center;}
+	.web-cms .cms-img img{margin:0 auto; height:inherit; max-height: inherit;}
+  .web-cms p{padding: 10px 0 30px 0; }
+  .why-stiga .why-stigasoft-option{margin: 35px 0 10px 0;}
+ 
+  .why-stiga .why-stiga-all{position:static;margin:25px 0 52px 0;}
+  .home-news .read-all-news{width:100%; text-align:center; position:static; margin-top:30px;}
+  .home-news .read-all-news a{ text-align:center;}
+  
+  .home-news .home-news-date{padding-bottom:5px;}
+  .home-news .col-sm-4{ margin-bottom:30px;}
+  .home-news .home-news-content h5{margin: 5px 0;  min-height: auto;}
+  .home-news .home-news-content p{ min-height: auto;}
+  .home-news .home-read-more { margin-top: 0px;}
+  .home-news h3 { margin-bottom: 20px;}
+  .iot h3{ padding:0 0 10px 0; }
+  .iot p{ padding-right:0;}
+  .iot .more-iot{ padding:0; margin-bottom:30px;}
+  .iot ul li { font-size:12px; width: 46.5%;height:150px; padding-top: 92px; margin-right: 7%; margin-bottom: 20px;}
+  .org-value .row:last-child .col-sm-4{margin-bottom: 22px;}
+  .org-value .row:last-child .col-sm-4:last-child { margin-bottom: 0;}
+  .iot ul li:before{top:15px;}
+  .iot ul li:nth-child(3n){margin-right:7%;}
+  .iot ul li:nth-child(2n){margin-right:0%;}
+  .iot ul li.iot-icon5, .iot ul li.iot-icon6{ margin-bottom:0;}
+  
+  
+  
+  /*Update On 2017-05-22 END*/
+  .footer-content {padding: 20px 0 0;position: static;left:0;}
+  .footer-content #footer{padding:0 15px;}
+  #footer .carrer-sec h5 + p { display: none;}
+  .carrer-sec { margin-bottom: 30px;}
+  #footer .carrer-sec .read-more_link { margin: 5px 0 0;}
+  #footer .footer-links {padding-top: 0;}
+  
+
+  
+  
+  #footer .copy-right-sec .copyright{ padding:4px 0 0 0;}
+  #footer .copy-right-sec{ padding:5px 0; margin:0;}
+  .swiper-slide .footer-content .col-sm-12 > div { position: static !important;}
+  .swiper-slide .col-sm-12 > div.footer-content { top:0%;}
+  
+  
+ 
+	div.ov, div.why, div.be, div.news,{ min-height:480px;position:relative;}
+	div.footer{min-height:580px;}
+
+	 div.testimonials{min-height:560px; position:relative;}
+
+
+	.be .container,.be .container .row,  .be .container .row .col-sm-12, .ov .container, .ov .container .row, .ov .container .row .col-sm-12, .news .container, .news .container .row, .news .container .row .col-sm-12,  .testimonials .container, .testimonials .container .row, .testimonials .container .row .col-sm-12{position:relative;}
+	div.ov-content, div.be-content, div.news-content, div.testimonials-content{position:absolute;}
+	  
+	#footer .footer-links li a{display:inline-block;}
+	#footer .carrer-sec .read-more_link{ margin:0;}
+		.ov {
+		background: url(../images/banner-ov.jpg) no-repeat center center;
+		background-size: cover;
+	}
+	
+	/* Executive Summary */
+	.content-wrap-inner .para-intro{max-width: 100%;}
+	.count-ref{padding: 10px 0 5px;}
+	.exec-services ul li, .why-stigasoft ul li{ width: 100%; text-align: center;}
+	.yellow-box.we-help{ margin: 50px 5px 10px 5px; min-height: inherit;}
+	.light-blue-box.executive-mgmt, .green-box.office-loc{ margin-left:5px;margin-right:5px; padding: 30px 10px; 
+	min-height: inherit;}
+	.green-box.office-loc{ padding:30px 10px;}
+	.loc h4{ font-size: 1rem;}	
+	.exec-mgmt{ margin-bottom:0px;}
+	.exec-services p{ padding:0 15px;}
+	.why-stigasoft ul li { min-height: inherit; padding: 2rem 0.625rem;}
+	.why-stigasoft{ margin:0 5px;}
+	.why-stigasoft ul li span, .exec-services ul li a{ font-size:16px;}
+	#services-slider .owl-controls, #why-stigasoft .owl-controls {  padding: 25px 0 0;}
+	
+	
+	/*People */
+	.people-row .people-info p{ padding: 0 15px;}
+	.bottom-tag-line p {font-size: 1.125rem;line-height: inherit; margin-bottom:0;}
+	
+	/*Client*/	
+	.content-wrap-nonav-inner .para-intro {  max-width: 100%;}
+	table.client-logo{ margin-top:0;}
+	
+	
+	/*ecommerce-cms-solutions*/
+	.content-wrap-inner.ecom-sol{ margin-bottom: 28px;}
+	#ecommerce-services {padding:24px 0 20px 0;}	
+	.ecom-services-slider .ecom-single-slide{ margin: 0 5px;}
+	#ecommerce-solutions{ margin-left:5px;margin-right:5px;}
+	.ecomm-row > div { margin-bottom: 34px;}
+	.ecomm-row:last-child > div { margin-top: 0px;}
+	.ecomm-row > div.col-sm-12{ margin-bottom: 0}
+	#enterprise-solutions .ecomm-row{ margin-bottom: 0px;}
+	#enterprise-solutions .ecomm-row:last-child{ margin-bottom: 0;}
+	.ecom-services-slider .owl-controls .owl-buttons{display:none;}
+	
+	
+	/*enterprise solution*/
+	.enterprise-details{ margin-left:5px;margin-right:5px;}
+	#enterprise-solutions{padding: 1.8125rem 5px 0.9375rem 5px;}
+	#enterprise-solutions .ecomm-row h5{min-height: inherit;}
+	.enterprise-details p{ padding-top: 15px;}
+
+	
+	/*Mobility Solutions*/	
+	.mobility-solution-row .mobility-solution-content { padding: 2rem 0 2rem 0%;width: 95%;}
+	.mobility-solution-row { padding-left: 5px;  padding-right: 5px; padding-top:2.375rem}
+	.mobility-solution-row .mobility-solution-content p { margin-bottom:0;} 
+	.mobility-solution-row .pull-right{ float:none !important;}
+	
+	
+	/*News*/
+	.all-year-section > section#year-2016{ padding-bottom: 20px;}
+	.single-news-box .news-images img{ margin-right: 5px auto;}
+	.single-news-box .news_content{height:7.5rem; }
+	.fixed_nav #news-years{ top:3.2rem;}
+	.all-year-section > section{ padding: 24px 0 20px 0;}
+	.latest-new-date{ padding:5px;}
+	.all-year-section .latest-new-box { padding: 1.25rem 1.25rem 1.25rem; min-height:inherit;}	
+	
+	
+	/*Partners*/	
+	.all-partners section{ padding-top:30px;padding-bottom:18px; }
+	.partners-logo{ padding: 10px; 0; margin-bottom: 20px;}
+	
+	/*qlikview-business-intelligence*/	
+	.all-qlik-sec section { padding: 1.75rem 5px;}
+	.all-qlik-sec .qlik-icons{margin: 0.8125rem 0 0.6375rem 0;}
+	.all-qlik-sec h5{ margin-bottom:5px;}
+	.all-qlik-sec p {margin-bottom: 2.6875rem;}
+	
+	
+	/*qliksense-business-intelligence*/	
+	.qlik-top-links a:last-child::before { height: 3.13rem;}	
+	
+	/*People*/
+	.people-row{ display: block;; text-align: center;}
+	.people-row .people-pic, .people-row .people-info{ display: block; margin: 0 0 10px 0;}
+	.people-pic img{ margin:0 auto;}	
+	.col-sm-41{ width: 100%;}
+	
+	/*Career*/
+	.career-features,.career-features.last-car-feat {margin-bottom: 30px;}
+	.career-top-sec{margin-bottom: 1.125rem;}
+	.career-video_sec{ height:inherit; min-height: inherit;}
+	.career-video_sec video{ height:inherit; }
+	.careet-tag-line-bg,.career-video_sec, .office-pic{ margin-bottom: 10px;}
+	.career-features{ padding:0 5px;}	
+	.office-pic img{ width:100%;}
+	.career-boxs {padding-left: 5px;padding-right: 5px; margin-bottom: 1rem;}
+	.career-features{ margin-bottom:0.875rem;}
+	.career-features.last-car-feat{margin-bottom: 1.125rem;}
+	.career-features.last-car-feat h5{ margin-top:.8rem;}
+	.career-features h5{ padding-top: 0;}
+	.career-tag-lines p { font-size: 1.5rem;}
+	.career-video_sec{ background: none;}
+	
+	
+	/*Job detail*/
+	.job-detail-sec .ext-detail label{ min-width: 7.813rem;}
+	
+	/*Testimonial*/	
+	.single-testimonial-detail {   padding: 5px;}
+	.single-testimonial-box{ min-height: inherit; margin-bottom:10px;}
+	.single-testimonial-box .testimonial-content {padding: 2.8125rem 1.25rem 1rem;}
+	.content-wrap-inner.testimonial-sec{ margin:25px 5px 25px 5px;}
+	.single-testimonial-box .testimonial-client-pic{min-height: 199px;}
+	.single-testimonial-box .testimonial-client-pic .testimonial-client h5{font-size: 1.25rem;}
+	.single-testimonial-box .testimonial-client-pic .testimonial-client p{font-size: 1rem;}
+	
+	/*new design tesimonial*/
+	.testimonial-sec .testimonial-box{min-height:260px;}	
+	
+	/*Web and Application development*/	
+	.web-app-sec{ padding-left:5px;padding-right:5px;}
+	.all-web-app-sec { padding: 1.75rem 10px 2.125rem 10px;}
+	.web-app-sec > div:first-child{ margin-bottom: 30px;}
+	.all-web-app-sec section img{ display: none;}
+	.all-web-app-sec ul { margin: 0 0 1.5rem 1rem;}
+	.web-features.bg-gray, .web-features.bg-white{ padding-left: 5px; padding-right: 5px;}
+	
+	/*Business Excellence methodology*/
+	.work-flow-sec{ padding-left:5px;padding-right:5px;padding-bottom: 5px;}
+	.work-flow-sec p {padding-bottom: 0.375rem;}
+	
+	/*Contact-us*/
+	#contact-us{margin-bottom: 30px;}
+	.form-address{ padding-left:5px;padding-right:5px;}
+	#contact-us .form-group{ width: 100%;}	
+	
+	/*Site map*/	
+	.site-map{ padding-left:5px;}
+	.site-map h5{ margin-top:10px;}
+	.content-wrap-nonav-inner.site-map{ margin-bottom:0;}
+	.site-map .col-xs-12.col-sm-4{margin-bottom:20px;}
+	
+	/*Clients*/	
+	ul.clients{ margin:0 5px;}
+	ul.clients li {  min-height: 85px; width:33.333%;}
+	/* ul.clients li:nth-of-type(1),ul.clients li:nth-of-type(1)+li{ border-bottom:0;} */
+	ul.clients li:nth-child(5n){ border-right:0;}
+	ul.clients li:nth-child(4n),
+	ul.clients li:nth-child(5n){
+		border-top: 0;
+	}
+	ul.clients li:nth-child(3n){ border-right:1px solid #ddd !important;}
+	ul.clients li:last-child {border-right:1px solid #dddddd !important; width: 33.3%;}
+	.job-detail-sec .ext-detail label, .job-detail-sec .ext-detail .ext-detail-value{ font-size: 12px;}
+
+	/*Qlik Sense*/
+	.all-qlik-sec h5{ min-height: inherit;}
+	.qlik-top-links a{padding: 1.1rem 2rem;}
+	.all-qlik-sec p { padding: 0 10px;}
+
+	/*Agile Methodology*/
+	.agile-methodology{ padding:21px 5px 25px 5px;}
+
+	/*IOT*/
+	.implementation-area .ia-icon{margin-bottom:10px;}
+	.transform-business .iot-box ul li, .transform-business .iot-box ul li:nth-child(3n), .transform-business .iot-box ul li:nth-child(2n){width:100%; margin-right:0;}
+	.implementation-area .ia-icon:before{width:100px; height:100px;}
+	.implementation-area .ia-icon.ia-icon1:before { background-position: -12px -1015px;}
+	.implementation-area .ia-icon.ia-icon2:before { background-position: -136px -1015px;}
+	.implementation-area .ia-icon.ia-icon3:before { background-position: -258px -1015px;}
+	.implementation-area .ia-icon.ia-icon4:before { background-position: -381px -1015px;}
+	.implementation-area .ia-icon.ia-icon5:before { background-position: -500px -1015px;}
+	.implementation-area .ia-icon.ia-icon6:before { background-position: -625px -1015px;}
+	.implementation-area .ia-icon.ia-icon7:before { background-position: -748px -1015px;}
+	.implementation-area .ia-icon.ia-icon8:before { background-position: -870px -1015px;}
+	.transform-business{padding-left:5px;padding-right:5px;}
+	.approach-offerings{min-height:inherit; padding:26px 0;}
+	.approach-offerings img{height:inherit;margin: 0 auto 40px auto;}
+
+	/*Web CMS Detail */
+	.web-cms-sec .cms-banner-right.six-pac{width:100%;}
+	.web-cms-sec .cms-banner-right.six-pac img{ position: relative;left: -5%;}
+	.web-cms-sec .web-cms-content { padding-right: 0; max-width:95%; margin:0 auto; text-align:center;}
+
+	/*Blockchain Consulting*/
+	.blockchain-consulting-banner{margin:0;}
+	.blockchain-explained-block, .our-offering .blockchain-explained-block{ min-height:inherit; margin-bottom:25px; padding-left: 10px; padding-right: 10px;}
+	.blockchain-explained-block h4{padding:0;}
+	.blockchain-consulting-banner { background: url(../images/blockchain-consulting-banner-md.jpg) no-repeat -320px 0;}
+	.blockchain-explained, .our-offering{  padding: 24px 0 20px 0;}
+	
+
+
+}
+
+
+/********************************************** Mobile View Portrait *************************************************************/
+
+@media screen and (max-width: 767px) and (orientation: portrait) {
+  /* Homepage */
+
+
+
+}
+
+/**************************************************** Mobile View Landscape *******************************************************/
+
+
+
+@media screen and (max-width: 767px) and (orientation: landscape) {
+	
+	
+	/*Home Full page*/
+	
+		.logo img{max-width:60%;}
+		
+	
+	
+	.ov-content{height:180px;}
+	
+	.news-content{top:28%;}
+	.home-new-content span.hidden-xs{ display:inline-block !important;}
+	.testimonials-content {left: 0; top: 10%; }
+	.testimonials-content ul li {padding: 45px 0px 10px;width:49%;}
+	.testimonials-content ul li:last-child{display:block}
+	.testimonials-content ul li .testimonial-user-pic span { height: 80px;width: 80px;}
+	
+	.footer-content .row .row .col-xs-6.col-sm-4,.footer-content .row .row .col-xs-6.col-sm-4, .footer-content .row .row .col-xs-12.col-sm-4{width:33.33% !important;}
+	.footer-content { padding: 20px 0 00px;}
+	.ov-content{box-sizing:border-box; padding:20px 30px 30px;}
+	.ov-content .owl-prev, .ov-content .owl-prev:hover, .ov-content .owl-next, .ov-content .owl-next:hover{bottom:20px;}
+	.why-content > p {margin: 5px 0 0;}
+	.why-content h3{ margin-bottom:10px;}
+	.swiper-slide .footer .col-sm-12 > div{position:static !important;}
+	.footer-content{ padding:20px 0 0 0;}
+	#footer .copy-right-sec{ padding:1rem 0 0 0;}
+	
+	
+	.be { background: url(../images/banner-be.jpg) no-repeat center center; background-size: cover;}
+	
+	.ov {background: url(../images/banner-ov.jpg) no-repeat center center; background-size: cover;}
+		.swiper-slide:nth-child(6){ min-height:520px;}
+	 .swiper-slide:nth-child(7){ min-height:480px;}
+	 .testimonials-content ul { width: 96%;}
+	 .testimonial-user-pic + p{height:90px;}
+	 div.footer{min-height:480px;}
+	 .be-content{right:25%;}
+	 
+	 	
+.transform-business .iot-box ul li, .transform-business .iot-box ul li:nth-child(3n){width:49%; margin-right:1%;}
+.transform-business .iot-box ul li:nth-child(2n){margin-right:0;width:49%;}
+section.web-cms-sec:last-child img {  position: relative;  right: -15px;}
+
+.site-map .col-xs-12.col-sm-4:last-child { position: absolute; right: 0; width: 50%;}
+.career-features img{margin: 0 auto;}
+
+}
+
+
+@media screen and (min-width: 400px) and (max-width: 767px) {
+
+  /* Client */
+	ul.clients li {  min-height: 120px;}
+	.menu_icon{ /*margin-top: 24px;*/margin-top: 14px;}
+    .news-content{padding: 0 40px;}
+	
+
+}
+
+@media(max-width:320px) and (max-height:480px){
+	
+	
+	.footer-content { padding: 34px 0 0;}
+	.be { background: url(../images/banner-be.jpg) no-repeat center center; background-size: cover;}
+	
+	.ov {background: url(../images/banner-ov.jpg) no-repeat center center; background-size: cover;}
+	
+	
+}
+@media(max-height:320px){
+
+
+	
+}
